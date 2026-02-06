@@ -43,7 +43,7 @@ https://www.kaggle.com/datasets/saakaragrawal/preprocessed-and-splitted-nih-ches
   
    
 6. Installation Guide
-   
+
 Prerequisites:
 -	Python 3.8+
 -	Pip (Python package manager)
@@ -52,11 +52,18 @@ Clone the repository
 git clone https://github.com/saakar17/streamlit-app.git
   
 Install Dependencies:
+
 pip install -r requirements.txt
-Run the Application: streamlit run appp.py
+
+Run the Application: 
+
+streamlit run appp.py
 
  Contributor
 - Saakar Agrawal
   
 
 This project is licensed under the MIT License.
+
+
+
