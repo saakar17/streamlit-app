@@ -41,20 +41,19 @@ https://www.kaggle.com/datasets/saakaragrawal/preprocessed-and-splitted-nih-ches
 -	Type: Multi-class classification
 -	Trained On: Balanced subset of NIH chest X-ray dataset
   
-6. How It Works
-  1.	User uploads a chest X-ray image (format: JPG or PNG).
-  2.	The app preprocesses the image (resize, normalization).
-  3.	The EfficientNetB0 model predicts the disease class.
-  4.	The prediction is displayed on the screen.
    
-7. Installation Guide
+6. Installation Guide
+   
 Prerequisites:
 -	Python 3.8+
 -	Pip (Python package manager)
+
+Clone the repository
+git clone https://github.com/saakar17/streamlit-app.git
   
 Install Dependencies:
 pip install -r requirements.txt
-Run the Application: streamlit run app.py
+Run the Application: streamlit run appp.py
 
  Contributor
 - Saakar Agrawal
