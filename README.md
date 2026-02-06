@@ -49,16 +49,17 @@ Prerequisites:
 -	Pip (Python package manager)
 
 Clone the repository
+```bash
 git clone https://github.com/saakar17/streamlit-app.git
-  
+```  
 Install Dependencies:
-
+```bash
 pip install -r requirements.txt
-
+```
 Run the Application: 
-
+```bash
 streamlit run appp.py
-
+```
  Contributor
 - Saakar Agrawal
   
